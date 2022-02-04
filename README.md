@@ -1,2 +1,2 @@
 # Ermmy-Poem
-This is a poem about Ermmy
+This is a repository for my poem
